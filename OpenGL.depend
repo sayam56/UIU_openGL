@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1542384782 source:f:\l-4 t-2\graphics sessonal\offline 1\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\l-4 t-2\graphics sessonal\offline 1\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1542384782 source:g:\l-4 t-2\graphics sessonal\offline 1\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\l-4 t-2\graphics sessonal\offline 1\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563824290 source:j:\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 j:\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563824290 source:e:\uiu - summer 2019\matrials\cg\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 e:\uiu - summer 2019\matrials\cg\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563857314 source:d:\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1564424595 source:f:\uiu\graphics lab sample codes\gl materials\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\uiu\graphics lab sample codes\gl materials\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1574057628 source:c:\users\student.lab10pc-06\desktop\sayam\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1564379004 c:\users\student.lab10pc-06\desktop\sayam\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1575148746 source:d:\study materials\graphics lab\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1574009840 d:\study materials\graphics lab\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1575183352 source:c:\users\student.lab10pc-06\desktop\sayam\project\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1575098470 c:\users\student.lab10pc-06\desktop\sayam\project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1576392064 source:c:\users\sayam\desktop\graphics project\project\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<fstream>
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<stb_image.h>
+	<mmsystem.h>
+	"bmp.h"
+	"RGBPixMap.h"
+
+976692172 c:\users\sayam\desktop\graphics project\project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1575371981 source:c:\users\ali iktider sayam\desktop\graphics project\project\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1575271736 c:\users\ali iktider sayam\desktop\graphics project\project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1575744420 c:\users\sayam\desktop\graphics project\project\opengl\include\rgbpixmap.h
+	<windows.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<fstream>
+	<strstream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+	<algorithm>
+	<gl/Gl.h>
+	<gl/Glu.h>
+	<glut.h>
+
+1575742949 c:\users\sayam\desktop\graphics project\project\opengl\include\bmp.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1575745784 c:\users\sayam\desktop\graphics project\project\opengl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
