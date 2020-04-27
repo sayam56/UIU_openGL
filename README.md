@@ -49,13 +49,10 @@ Known Bugs:
       
 Yet To Implement:
       > Proper Scoring System
-      > Proper Menu UI
 
 
 Contributors: 
     > Ali Iktider Sayam
-    > Muhibul Alam Anik
-    > Sumaya Bintay Mannan
    
    
    
